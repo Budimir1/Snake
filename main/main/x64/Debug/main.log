@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Компьютер\source\repos\main\main\main.cpp(29,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Компьютер\source\repos\main\main\main.cpp(29,20): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  main.vcxproj -> C:\Users\Компьютер\source\repos\main\x64\Debug\main.exe
